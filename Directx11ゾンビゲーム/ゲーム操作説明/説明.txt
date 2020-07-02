@@ -1,0 +1,11 @@
+keyboard 
+WSAD      Move
+Space	  Jump
+G  	  弾薬などを買う
+F	  弾薬を取替
+
+
+Mouse
+左クリック　ショット
+右クリック　ショットモード
+中央クリック　装備を取替(WとSで移動)
