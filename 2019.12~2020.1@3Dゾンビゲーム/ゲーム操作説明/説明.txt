@@ -4,6 +4,7 @@ Space	  Jump
 G  	  弾薬などを買う
 F	  弾薬を取替
 ctrl	  FreeCamera
+左Shift	　 Run	  	
 
 Mouse
 左クリック　ショット
